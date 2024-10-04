@@ -1,2 +1,2 @@
 # Move-It-Landing-Page
-This is the landing page for a moving company. 
+This is the landing page for a moving company. This is the design of a webpage using Bootstrap components. This site has not functionality, I just wanted to display my capabilities to design a visually appealing website for users. This has been made entirely with HTML, CSS, and the Bootstrap framework. This was one of the first sites I created with a focus on making it work on both desktop and mobile devices, which was a struggle for me in the beginning. 
